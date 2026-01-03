@@ -122,10 +122,13 @@
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishh07&show_icons=true&count_private=true&hide_border=true&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishh07&layout=compact&hide_border=true&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36" height="165" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishh07&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="nitishh07 stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishh07&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nitishh07&theme=dracula&hide_border=true" alt="nitishh07 streak" />
