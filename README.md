@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitish Kumar Pandit</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+<h3 align="center">I look forward to absorb knowledge🧠, gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭 for the world🌍!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitishh07&label=Profile%20views&color=0e75b6&style=flat" alt="nitishh07" />
