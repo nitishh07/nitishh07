@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 <h1 align="center">Hi 👋, I'm Nitish Kumar Pandit</h1>
 <h3 align="center">I look forward to absorb knowledge🧠, gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭 for the world🌍!</h3>
 
