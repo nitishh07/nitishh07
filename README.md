@@ -21,7 +21,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Smart Crop Advisory System**
 - 🌱 I'm currently learning **Data Structures & Algorithms**
 - 👯 I'm looking to collaborate on **Open-source Web & AI Projects**
 - 🤝 I'm looking for help with **AI OCR integration & backend improvements**
