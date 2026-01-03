@@ -118,15 +118,11 @@
   </a>
 </p>
 
+
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishh07&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishh07&layout=compact&theme=radical&hide_border=true" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nitishh07&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nitishh07&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 🐍 Contribution Snake:
