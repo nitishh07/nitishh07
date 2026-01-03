@@ -32,7 +32,6 @@
 - ⚡ Fun fact: **I enjoy turning real-world problems into practical code solutions 🚀**
 
 <br clear="both">
-
 ---
 
 ### 🌐 Connect with me:
