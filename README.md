@@ -121,8 +121,8 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishh07&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishh07&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nitishh07&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nitishh07&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
