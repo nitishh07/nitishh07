@@ -142,3 +142,7 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=nitishh07&icon=0&color=0" alt="Visit Count" />
 </p>
+
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitishh07&theme=react-dark&hide_border=true)
