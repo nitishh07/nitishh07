@@ -122,7 +122,7 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nitishh07&theme=dracula&hide_border=true" alt="nitishh07 streak" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=nitishh07&theme=dracula&hide_border=true" alt="nitishh07 streak" />
 </div>
 
 ### 🐍 Contribution :
