@@ -119,11 +119,22 @@
 </p>
 
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=nitishh07&theme=dracula&hide_border=true" alt="nitishh07 streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishh07&show_icons=true&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nitishh07&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishh07&layout=compact&theme=dracula&hide_border=true" />
+</p>
+
+
+
 
 ### 🐍 Contribution :
 
