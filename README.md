@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=nitishh07&label=Profile%20views&color=0e75b6&style=flat" alt="nitishh07" />
 </p>
 
+
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nitishh07&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="nitishh07" />
@@ -121,17 +123,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitishh07&show_icons=true&theme=dracula&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=nitishh07&theme=dracula&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishh07&layout=compact&theme=dracula&hide_border=true" />
-</p>
+</p> -->
 
 
 
