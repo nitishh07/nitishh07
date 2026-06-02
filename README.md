@@ -24,14 +24,17 @@
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
 ### 👨‍💻 About Me
+👨‍💻 About Me
 
-- 🌱 I'm currently learning **Data Structures & Algorithms**
-- 👯 I'm looking to collaborate on **Open-source Web & AI Projects**
-- 🤝 I'm looking for help with **AI OCR integration & backend improvements**
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/nitishh07?tab=repositories)
-- 💬 Ask me about **JavaScript, React, Web Development & GSAP**
-- 📫 How to reach me: **nk045729@gmail.com**
-- ⚡ Fun fact: **I enjoy turning real-world problems into practical code solutions 🚀**
+• 🎓 Computer Science Student at KIIT University
+• 💻 Full Stack Developer (Java, Spring Boot, React, MongoDB)
+• 🚀 Building scalable web applications and AI-powered solutions
+• 🤖 Interested in Artificial Intelligence, OCR & Product Engineering
+• 📚 Continuously learning System Design, Backend Development & DSA
+• 🌍 Passionate about creating technology that solves real-world problems
+• 🤝 Open to collaborations on Open Source and Innovative Projects
+• 📫 Reach me for discussions on Java, Spring Boot, React and Software Development
+• ⚡ Always learning, building and improving
 
 <br clear="both">
 ---
