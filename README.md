@@ -66,20 +66,15 @@
 
 ---
 
-## ⚡ GitHub Metrics
+## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="./metrics.classic.svg" alt="Metrics Overview" width="90%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitishh07&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishh07&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Isocalendar" width="90%"/>
-  
-</p>
-
-<p align="center">
-  <img src="./metrics.plugin.repositories.svg" alt="Repositories" width="49%"/>
-  <img src="./metrics.plugin.languages.svg" alt="Languages" width="49%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishh07&theme=tokyonight" />
 </p>
 
 ---
