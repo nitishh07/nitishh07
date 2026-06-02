@@ -23,7 +23,6 @@
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
-### 👨‍💻 About Me
 👨‍💻 About Me
 
 • 🎓 Computer Science Student at KIIT University
@@ -35,7 +34,6 @@
 • 🤝 Open to collaborations on Open Source and Innovative Projects
 • 📫 Reach me for discussions on Java, Spring Boot, React and Software Development
 • ⚡ Always learning, building and improving
-
 <br clear="both">
 ---
 
