@@ -23,19 +23,17 @@
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
-👨‍💻 About Me
+👨‍💻 About Me <br><br>
 
-• 🎓 Computer Science Student at KIIT University
-• 💻 Full Stack Developer (Java, Spring Boot, React, MongoDB)
-• 🚀 Building scalable web applications and AI-powered solutions
-• 🤖 Interested in Artificial Intelligence, OCR & Product Engineering
-• 📚 Continuously learning System Design, Backend Development & DSA
-• 🌍 Passionate about creating technology that solves real-world problems
-• 🤝 Open to collaborations on Open Source and Innovative Projects
-• 📫 Reach me for discussions on Java, Spring Boot, React and Software Development
+• 🎓 Computer Science Student at KIIT University <br>
+• 💻 Full Stack Developer (Java, Spring Boot, React, MongoDB) <br>
+• 🚀 Building scalable web applications and AI-powered solutions <br>
+• 🤖 Interested in Artificial Intelligence, OCR & Product Engineering <br>
+• 📚 Continuously learning System Design, Backend Development & DSA <br>
+• 🌍 Passionate about creating technology that solves real-world problems <br>
+• 🤝 Open to collaborations on Open Source and Innovative Projects <br>
+• 📫 Reach me for discussions on Java, Spring Boot, React and Software Development <br>
 • ⚡ Always learning, building and improving
-<br clear="both">
----
 
 ### 🌐 Connect with me:
 
