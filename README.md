@@ -66,6 +66,25 @@
 
 ---
 
+## ⚡ GitHub Metrics
+
+<p align="center">
+  <img src="./metrics.classic.svg" alt="Metrics Overview" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.svg" alt="Isocalendar" width="90%"/>
+  
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.repositories.svg" alt="Repositories" width="49%"/>
+  <img src="./metrics.plugin.languages.svg" alt="Languages" width="49%"/> 
+</p>
+
+---
+
+
 ### 🛠️ Languages and Tools:
 
 <p align="center">
